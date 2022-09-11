@@ -22,7 +22,7 @@
 }
 
 .todo.done .content {
-  text-decoration: line-through;
+  text-decoration: line-through; /*passes a line through an element that has been done*/
 }
 
 .todo-input {
